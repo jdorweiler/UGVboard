@@ -12412,7 +12412,6 @@ Source: http://products.nichicon.co.jp/en/pdf/XJA043/e-ud.pdf</description>
 <sheets>
 <sheet>
 <plain>
-<text x="381" y="-15.24" size="2.54" layer="91">v1.2</text>
 </plain>
 <instances>
 <instance part="IC1" gate="G$1" x="20.32" y="135.89"/>
